@@ -48,8 +48,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nyowi1&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nyowi1&layout=compact&theme=tokyonight&hide_border=true)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nyowi1&theme=tokyo-night&hide_border=true)
 
 ---
@@ -57,6 +55,6 @@
 ## Connect
 
 - Portfolio
-- LinkedIn
-- Email
+- [LinkedIn](https://www.linkedin.com/in/kaung-zaw-hein-52b5a538b)
+- [Email](mailto:kaungzawhein972@gmail.com)
 - YouTube
